@@ -52,5 +52,5 @@ urllib3==1.25.9
 uvloop==0.12.2
 vine==1.2.0
 wcwidth==0.1.7
-Werkzeug==0.15.2
+Werkzeug==0.15.3
 whitenoise==4.1.2
